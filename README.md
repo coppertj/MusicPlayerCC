@@ -5,7 +5,7 @@ MusicPlayerCC is an open-source music player designed for ComputerCraft, leverag
 
 Features:
 
-    Audio playback from in-game computers (targeted computer is the noisy portable computer)
+    Audio playback from in-game computers (targeted computer is the ADVANCED noisy portable computer)
     File system browsing within the game
     Shuffle and repeat functionalities
     User-configurable settings for performance optimization
