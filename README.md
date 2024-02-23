@@ -66,12 +66,13 @@ Known Bugs:
 
 
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details. This ensures that the project remains free and open-source, allowing anyone to modify and distribute their versions as long as they don't profit from it commercially.
-Acknowledgments
+
+Acknowledgments:
 
     Thanks to the ComputerCraft community for their invaluable resources and support aswell as the Basalt team for their amazing API!
     Special thanks to all contributors and future contributors who help improve MusicPlayerCC.
 
-Contact
+Contact:
 
 For questions, suggestions, or collaborations, please open an issue in the GitHub repository or contact me directly on discord (username coppertj)
 
