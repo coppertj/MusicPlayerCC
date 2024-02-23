@@ -21,7 +21,7 @@ Prerequisites:
 Installation:
 
     Start by opening your in-game computer terminal.
-    Use the following command to install MusicPlayerCC: wget https://path-to-musicplayercc/install.lua <file name>
+    Use the following command to install MusicPlayerCC: wget https://raw.githubusercontent.com/coppertj/main/main/musicplayercc.lua <file name>
     For the file name I recommend startup if it's a standalone device like a Advanced Noisy Pocket Computer. To utilize the Basalt API it does have to atleast be a advanced computer.
     Run the Program and it will auto install the Basalt API aswell as create the music folder and a config file (that is currently useless as this is a proof of concept release)
 
@@ -51,6 +51,8 @@ Future Features:
 -Global shuffle that will play the entire music folder and subfolders
 
 -Options menu for buffer size (improves audio quality/performance at the cost of accurate pause/skip/repeat button detection)
+
+NOTE: the buffer size is set to 1024*16 currently for max performance reasons, you can adjust this at line 404 to be lower if you want accurate pausing at the cost of audio glitches/the progressively louder audio bug.
 
 -HTML streaming from webserver
 
