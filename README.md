@@ -1,5 +1,6 @@
 MusicPlayerCC
 
+
 MusicPlayerCC is an open-source music player designed for ComputerCraft, leveraging the Lua programming language to bring a versatile and user-friendly audio experience to Minecraft. This project is currently in a proof of concept stage, demonstrating core functionalities such as file browsing, audio playback, and dynamic user interface elements. I believe in the potential of MusicPlayerCC to evolve significantly through community involvement and contributions.
 
 Features:
@@ -71,3 +72,11 @@ Acknowledgments
 Contact
 
 For questions, suggestions, or collaborations, please open an issue in the GitHub repository or contact me directly on discord (username coppertj)
+
+
+Pictures:
+
+![Player](https://github.com/coppertj/main/blob/main/player.png?raw=true "Player")
+
+
+![Explorer](https://raw.githubusercontent.com/coppertj/main/main/explorer.png "Explorer")
